@@ -1,4 +1,4 @@
-[profile.stats%.txt](https://github.com/user-attachments/files/22181228/profile.stats.txt)#  CoinDCX Market Data Automation Suite
+##CoinDCX Market Data Automation Suite
 
 A professional-grade automation and analytics suite for **crypto market data, order placement, and Excel integration**.  
 Developed with **Python, WebSockets, and REST APIs**, this tool enables **real-time market tracking, order execution, and reporting**.
