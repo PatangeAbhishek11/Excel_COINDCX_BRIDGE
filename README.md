@@ -30,6 +30,6 @@ The analysis helped in identifying bottlenecks and optimizing Excel interaction 
 - Major improvements in Excel COM interactions (`xlwings`).
 
  See full reports in:
- - [`profile.stats%.txt`](profile.stats%.txt)
+ - [`profile.stats%.txt`]()
  
 
