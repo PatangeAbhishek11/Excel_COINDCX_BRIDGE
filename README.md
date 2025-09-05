@@ -15,3 +15,5 @@ Developed with **Python, WebSockets, and REST APIs**, this tool enables **real-t
 ---
 
 
+## 🎥 Demo Video
+[Click here to watch the demo](https://drive.google.com/file/d/1Jhqa0N_nY1vBKIGLQwKr6QsjefS3IQYr/view?usp=sharing)
